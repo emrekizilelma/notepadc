@@ -1,7 +1,10 @@
 #include <stdio.h>
 #include <app_info.h>
+#include <file_operations.h>
+
+const char* file = "exampleee";
 
 int main(void) {
-    app_info();
+    create_file(file);
     return 0;
 }

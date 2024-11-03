@@ -1,2 +1,2 @@
-# Cnotepad
-Simple Notepad program which written in C.
+# notepadc
+Simple notepad program which written in C.

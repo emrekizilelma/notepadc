@@ -3,7 +3,7 @@
 
 void create_file(const char*);
 void delete_file(const char*);
-void read_to_file(void); 
-void write_to_file(void); 
+void read_to_file(const char*); 
+void write_to_file(const char*); 
 
 #endif
